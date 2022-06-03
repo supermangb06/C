@@ -13,7 +13,7 @@ if (year % 4 == 0){
   }
   else{
   return false;}
-  return}
+  }
 
 int main() {
   int year;
